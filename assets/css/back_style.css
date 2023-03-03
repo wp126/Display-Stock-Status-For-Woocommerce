@@ -1,0 +1,29 @@
+.DSSFW_container {
+    padding-top: 10px;
+}
+.card.dssfw_notice {
+    max-width: 100%;
+}
+.card.dssfw_notice a{
+    margin-right: 20px;
+}
+table.data_table tr td {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+    width: 70%;
+    box-sizing: border-box;
+}
+table.data_table tr th {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 10px;
+    width: 25%;
+    font-weight: 600;
+    box-sizing: border-box;
+}
+.data_table h4 {
+    margin: 0;
+}
